@@ -14,7 +14,7 @@
 
 The objective of this project is to analyze Pizza Hut sales data using SQL to extract insights
 regarding customer ordering behavior, revenue generation, and pizza preferences. By
-performing various SQL queries, you will develop a deeper understanding of data analysis
+performing various SQL queries, i have developed a deeper understanding of data analysis
 techniques and how to apply them to real-world scenarios.
 
 ### DATA SOURCES
